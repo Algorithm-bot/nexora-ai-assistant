@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment configuration
+config.py
+.env
+.env.*
+*.env
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo 

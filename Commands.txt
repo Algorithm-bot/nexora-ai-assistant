@@ -1,0 +1,31 @@
+Website Commands
+"Open YouTube" - Opens YouTube in your default browser
+"Open Wikipedia" - Opens Wikipedia in your default browser
+"Open Google" - Opens Google in your default browser
+"Open Instagram" - Opens Instagram in your default browser
+"Open profile" - Prompts you to enter an Instagram username and opens that profile
+
+System Information Commands
+"What's the time" - Tells you the current time
+"How much battery we have" - Reports your system's battery percentage
+
+Media Control Commands
+"Play music" - Plays music from your Music directory
+"Increase volume" - Increases your system volume
+"Decrease volume" - Decreases your system volume
+"Mute" - Mutes your system volume
+
+Application Commands
+"Open visual" - Opens Visual Studio Code
+"Open camera" - Opens your camera application
+
+Utility Commands
+"Take screenshot" - Takes a screenshot and saves it with a name you specify
+"Using artificial intelligence" - Uses AI to respond to your prompt and saves the response to a file
+
+General Conversation
+Any other text or voice input will be treated as a general conversation query, and the assistant will respond using the AI service (if available) or provide a fallback response
+
+
+System Commands
+"Exit" - Exits the application.
