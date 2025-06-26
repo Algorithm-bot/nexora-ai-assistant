@@ -18,7 +18,7 @@ A modern, user-friendly AI assistant application with both keyboard and voice in
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Algorithm-bot/nexora-ai-assistant.git
 cd nexora-ai-assistant
 ```
 
